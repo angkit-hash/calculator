@@ -1,2 +1,2 @@
-# calculator
-Basic calculator program in java
+# Calculator
+It is a calculator program in java
